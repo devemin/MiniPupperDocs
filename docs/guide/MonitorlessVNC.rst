@@ -37,6 +37,7 @@ Step 1.1 Raspberry pi setting
 	gsettings set org.gnome.Vino require-encryption false
 
 ::
+
 * Then reboot your Raspberry pi and you can connect VNC with your remote client software. 
 * Like these ( Remmina (for Ubuntu), VNC Viewer / UltraVNC (for Windows) )
 
@@ -49,6 +50,7 @@ Step 1.2 Monitor less setting
 * So add this settings to /boot/firmware/config.txt
 
 ::
+
 	hdmi_force_hotplug=1
 	hdmi_group=2
 	hdmi_mode=27
