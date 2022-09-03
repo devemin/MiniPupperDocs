@@ -59,8 +59,10 @@ Step 1.2 Monitor less setting
 ::
 
 
-* hdmi_mode is resolution. You can change it.
-* See this about hdmi_mode
+* hdmi_mode is resolution(1280x800). You can change it. See this about hdmi_mode
+
+https://www.raspberrypi.com/documentation/computers/config_txt.html#video-options
+
 * If you failed the setting, you should use HDMI Monitor again.
 
 
