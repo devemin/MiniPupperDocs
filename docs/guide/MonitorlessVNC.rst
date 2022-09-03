@@ -33,6 +33,7 @@ Step 1.1 Raspberry pi setting
 
 * Open the terminal software, and type this for security setting.
 
+::
 
 	gsettings set org.gnome.Vino require-encryption false
 
@@ -58,14 +59,7 @@ Step 1.2 Monitor less setting
 
 ::
 
-::
-
-	sudo ufw allow 22
-	sudo ufw reload
-	
 * If firewall is not running, do the following. 
-
-::
 
 
 * hdmi_mode is resolution(1280x800). You can change it. See this about hdmi_mode.
