@@ -52,9 +52,9 @@ Step 1.2 Monitor less setting
 
 ::
 
-    hdmi_force_hotplug=1
-    hdmi_group=2
-    hdmi_mode=27
+	hdmi_force_hotplug=1
+	hdmi_group=2
+	hdmi_mode=27
 
 ::
 
