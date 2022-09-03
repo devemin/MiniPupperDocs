@@ -41,6 +41,7 @@ Step 1.1 Raspberry pi setting
 * Then reboot your Raspberry pi and you can connect VNC with your remote client software. 
 * Like these ( Remmina (for Ubuntu), VNC Viewer / UltraVNC (for Windows) )
 
+::
 
 
 Step 1.2 Monitor less setting
@@ -55,6 +56,16 @@ Step 1.2 Monitor less setting
 	hdmi_group=2
 	hdmi_mode=27
 
+::
+
+::
+
+	sudo ufw allow 22
+	sudo ufw reload
+	
+* If firewall is not running, do the following. 
+
+::
 
 
 * hdmi_mode is resolution(1280x800). You can change it. See this about hdmi_mode.
