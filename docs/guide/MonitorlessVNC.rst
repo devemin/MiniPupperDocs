@@ -63,6 +63,7 @@ Step 1.2 Monitor less setting
 
 https://www.raspberrypi.com/documentation/computers/config_txt.html#video-options
 
+* Then reboot and you can connect VNC without HDMI cable.
 * If you failed the setting, you should use HDMI Monitor again.
 
 
