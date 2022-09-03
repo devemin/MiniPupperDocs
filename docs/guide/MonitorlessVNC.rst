@@ -25,11 +25,11 @@ Step 1.1 Raspberry pi setting
 
 * Then enable the VNC function.
 
-Application -> Settings
-Sharing -> Screen Sharing
-Active the Slider.
-set the password. (Any pass is OK.)
-Active your AP Slider.
+   + Application -> Settings
+   + Sharing -> Screen Sharing
+   + Active the Slider.
+   + set the password. (Any pass is OK.)
+   + Active your AP Slider.
 
 * Open the terminal software, and type this for security setting.
 
