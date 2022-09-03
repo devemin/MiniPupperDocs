@@ -19,6 +19,10 @@ Step 1.1 Raspberry pi setting
 
 * Boot the Raspberry pi (at first, use the HDMI Monitor.)
 * Connect to your WiFi Access point.
+
+Application -> Settings
+Wi-Fi -> Connect your AP.
+
 * Then enable the VNC function.
 
 Application -> Settings
