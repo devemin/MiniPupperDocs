@@ -74,7 +74,7 @@ Step 1.2 Monitor less setting
 * If firewall is not running, do the following. 
 
 
-* hdmi_mode is resolution(1280x800). You can change it. See this about hdmi_mode.
+* hdmi_mode=27 is resolution(1280x800). You can change it. See this about hdmi_mode.
 
 https://www.raspberrypi.com/documentation/computers/config_txt.html#video-options
 
