@@ -38,6 +38,7 @@ Step 1.1 Raspberry pi setting
    + set the password. (Any pass is OK.)
    + Active your AP Slider.
 
+* (Maybe you should enable the Remote Login (SSH) too. (If you did the wrong settings, you can fix it with SSH.) )
 
 .. image:: ../_static/vnc02.jpg
     :align: center 
