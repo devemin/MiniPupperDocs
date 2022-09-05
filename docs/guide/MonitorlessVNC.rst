@@ -14,6 +14,12 @@ Summary
 If you use VNC Monitor Sharing, It is convenient for debugging.
 
 
+.. image:: ../_static/vnc00.jpg
+    :align: center 
+
+
+
+
 Step 1.1 Raspberry pi setting
 ^^^^^^^^^^^^^^^^^^^^^
 
