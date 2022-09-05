@@ -32,10 +32,10 @@ Step 1.1 Raspberry pi setting
    + Active your AP Slider.
 
 
-.. image:: ../_static/vnc02.png
+.. image:: ../_static/vnc02.jpg
     :align: center 
 
-.. image:: ../_static/vnc03.png
+.. image:: ../_static/vnc03.jpg
     :align: center 
 
 
