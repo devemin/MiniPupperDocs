@@ -13,6 +13,7 @@ Summary
 ^^^^^^
 If you use VNC Monitor Sharing, It is convenient for debugging.
 
+(This guide is described about Ubuntu 20.04.)
 
 .. image:: ../_static/vnc00.jpg
     :align: center 
