@@ -20,8 +20,8 @@ Step 1.1 Raspberry pi setting
 * Boot the Raspberry pi (at first, use the HDMI Monitor.)
 * Connect to your WiFi Access point.
 
-   + Application -> Settings
-   + Wi-Fi -> Connect your AP.
+.. image:: ../_static/vnc01.png
+    :align: center 
 
 * Then enable the VNC function.
 
@@ -30,6 +30,14 @@ Step 1.1 Raspberry pi setting
    + Active the Slider.
    + set the password. (Any pass is OK.)
    + Active your AP Slider.
+
+
+.. image:: ../_static/vnc02.png
+    :align: center 
+
+.. image:: ../_static/vnc03.png
+    :align: center 
+
 
 * Open the terminal software, and type this for security setting.
 
