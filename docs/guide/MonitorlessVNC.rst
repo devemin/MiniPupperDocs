@@ -6,12 +6,12 @@ Monitor less VNC remote control (Optional)
   :depth: 2
 
 
-1. VNC Monitor Sharing 
+1. VNC Screen Sharing 
 -------------
 
 Summary 
 ^^^^^^
-If you use VNC Monitor Sharing, It is convenient for debugging.
+If you use VNC Screen Sharing, It is convenient for debugging.
 
 (This guide is described about Ubuntu 20.04.)
 
