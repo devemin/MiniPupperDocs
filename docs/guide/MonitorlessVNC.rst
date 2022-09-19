@@ -73,8 +73,6 @@ Step 1.2 Monitor less setting
 	hdmi_mode=27
 
 
-* If firewall is not running, do the following. 
-
 
 * hdmi_mode=27 is resolution(1280x800). You can change it. See this about hdmi_mode.
 
