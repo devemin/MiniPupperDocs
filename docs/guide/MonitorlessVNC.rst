@@ -55,6 +55,8 @@ Step 1.1 Raspberry pi setting
 
   (The first letter of Vino is capitalized.)
 
+* And Do Auto-Login user setting.
+
 * Then reboot your Raspberry pi and you can connect VNC with your remote client software. 
 * Like these ( Remmina (for Ubuntu), VNC Viewer / UltraVNC (for Windows) )
 
